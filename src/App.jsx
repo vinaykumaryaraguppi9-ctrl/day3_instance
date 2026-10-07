@@ -17,7 +17,7 @@ function App() {
             <div className="icon">🟢</div>
             <h2>Application</h2>
             <p>Running</p>
-          </div>
+          </div> 
 
           <div className="card">
             <div className="icon">🖥️</div>
